@@ -1,0 +1,7 @@
+PPT Knowledge Base - Cleaning and Formatting Log
+
+- Automated Extraction: Used python-pptx to extract raw text and tables from the source presentation.
+- Slide 5 (Tables): Manually reformatted the extracted data.frame, data.table, and tibble comparison into a structured manner preserving relational meaning.
+- Slides 9, 10, & 19 (Diagrams): The extraction script could not read text embedded in images. Manually transcribed the visual logic for the A* Algorithm, Hill Climbing problem spaces, and Classification topologies.
+- Slide 15 (Math): Restored the mathematical formulas for Mean Squared Error (MSE) and linear regression variables that did not extract cleanly.
+- General Cleanup: Removed redundant slide transition phrases, footers, and duplicate bullet points to optimize the text chunking for the chatbot knowledge base.
